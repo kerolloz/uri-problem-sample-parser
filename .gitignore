@@ -1,2 +1,4 @@
 .idea/*
 problem.pdf
+*.out
+*.in
